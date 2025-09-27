@@ -1,6 +1,10 @@
 # SX70-Motor-Control-Chip Replacement
 An open source Motor Control Chip Replacement for Polaroid SX70s.
 
+(Creative Commons Attribution-ShareAlike 4.0 International Public License)
+
+If you are looking to purchase individual replacement chips instead of manufacturing your own, or are interested in following what I am doing, please contact or follow me instagram [@fotocundari](https://www.instagram.com/fotocundari/)
+
 ## The Original Motor Driver Chips:
 From about 1974 onward, Polaroid used a Texas Instruments motor control chip (MCC) labeled SN28648P in a DIP-8 package (with 3 pins cut off). Earlier Model 1 cameras used a similar motor control chip but integrated in a metal can Transistor Outline (TO) package with 6 pins.
 
