@@ -50,7 +50,7 @@ It should also be noted you will actually often find Polaroid added bulk capacit
 
 # MCC Replacement Design:
 Putting all of the above together, the following circuit was designed to replace the MCC chip:
-![alt_text](https://github.com/fotocundari/SX70-Motor-Control-Chip/blob/main/images/SCH_Schematic1_1-P1_2025-09-26b.png)
+![alt_text](https://github.com/fotocundari/SX70-Motor-Control-Chip/blob/main/images/SCH_Schematic1_1-P1_2025-10-05.png)
 
 Components were selected for the space and SMT assembly by JLCPCB, and a PCB was designed to fit the circuit onto a 10mmx10mm PCB with through hole patterns to match the DIP-8 hole configuration (less 3 pins) on the original body flex. 
 
