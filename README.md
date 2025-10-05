@@ -1,4 +1,4 @@
-# SX70-Motor-Control-Chip Replacement
+#Polaroid SX70 Motor Control Chip Replacement
 An open source Motor Control Chip Replacement for Polaroid SX70s.
 
 (Creative Commons Attribution-ShareAlike 4.0 International Public License)
