@@ -69,6 +69,7 @@ JW60ZT0R00 (https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/
 * Diodes x 2 - 1N4448X-TP - 75V/250mA diode (SOD-523 size)
 * Resistor R1 - Current limiting resistor for DRV8212 logic side VCC - 1kOhm 1/20W (0201 SMD size)
 * Resistor R2 - Current limiting resistor for Inverter VCC - 200Ohm 1/20W (0201 SMD size)
+* Resistor R3 - Pull down resistor for NPN line - 10kΩ 1/20W (0201 SMD size)
 * Pins x 5 - 22 gauge 0 Ohm axial jumpers - Stackpole JW60ZT0R00 (22 gauge axial resistor leads)
 
 ## PCB Files:
