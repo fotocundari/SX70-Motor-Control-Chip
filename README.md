@@ -9,7 +9,7 @@ This design is currently a replacement for the DIP-8 motor control chips found o
 
 ### UPDATES:
 
-* V2 - If the shutter was desoldered and removed from camera NPN line would float and could cause the motor to run when yhe body was powered with no shutter attached. Added 10k pull down resistor between NPN and GND to tie NPN low when shutter was removed. This was only an issue if you had removed the shutter and was powering the body with no shutter on. If you have V1 and want to fix this you can simply solder a 10k resistor between the NPN and GND pins. 
+* V2 - If the shutter was desoldered and removed from the camera the NPN line would float and could cause the motor to run when the body was powered with no shutter attached. A 10k pull down resistor was added between NPN and GND to tie NPN low when the shutter was removed. This was only an issue if you had removed the shutter and was powering the body with no shutter on. If you have V1 and want to fix this you can simply solder a 10k resistor between the NPN and GND pins. 
 
 ## The Original Motor Driver Chips:
 From about 1974 onward, Polaroid used a Texas Instruments motor control chip (MCC) labeled SN28648P in a DIP-8 package (with 3 pins cut off). Earlier Model 1 cameras used a similar motor control chip but integrated in a metal can Transistor Outline (TO) package with 6 pins.
