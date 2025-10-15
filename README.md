@@ -83,3 +83,4 @@ The PCB has been ordered with SMT assembly successfully through JLCPCB. It is re
 ![alt_text](https://github.com/fotocundari/SX70-Motor-Control-Chip/blob/main/images/20250926_111121.jpg)
 ![alt_text](https://github.com/fotocundari/SX70-Motor-Control-Chip/blob/main/images/20250926_111226.jpg)
 ![alt_text](https://github.com/fotocundari/SX70-Motor-Control-Chip/blob/main/images/20250926_111539.jpg)
+<meta name="google-site-verification" content="1h2XhszaUEviwNbgJiq-MTsxTDpaHNHr6Q5V7Me8vNc" />
