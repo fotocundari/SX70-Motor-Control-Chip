@@ -3,6 +3,8 @@ An open source Motor Control Chip Replacement for Polaroid SX70s.
 
 (Creative Commons Attribution-ShareAlike 4.0 International Public License)
 
+PCBs can be manufactured with assembly at PCBWAY with the following link: https://www.pcbway.com/project/shareproject/Polaroid_SX70_Motor_Control_Chip_Replacement_8_pin_DIP_version_13df00a5.html
+
 If you are looking to purchase individual replacement chips instead of manufacturing your own, or are interested in following what I am doing, please contact or follow me on instagram [@fotocundari](https://www.instagram.com/fotocundari/)
 
 This design is currently a replacement for the DIP-8 motor control chips found on the paper body flex. A version specifically designed to fit the hole pattern of earlier Model 1 will come, however you could wire this version to a model 1 as long as you match the pinouts but may require jumper wires instead of pins. 
@@ -74,6 +76,7 @@ JW60ZT0R00 (https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/
 
 ## PCB Files:
 * All PCB Files - [[Click Here to go to PCB Files]](https://github.com/fotocundari/SX70-Motor-Control-Chip/blob/e063784c062193bfbbe436775434f3c58acc5151/PCB%20Files/)
+* PCBs can be manufactured with assembly at PCBWAY with the following link: https://www.pcbway.com/project/shareproject/Polaroid_SX70_Motor_Control_Chip_Replacement_8_pin_DIP_version_13df00a5.html
 
 The PCB has been ordered with SMT assembly successfully through JLCPCB. It is recommended to select a PCB thickness of 1.0mm. 
 
